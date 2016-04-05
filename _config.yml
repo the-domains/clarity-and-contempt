@@ -1,4 +1,4 @@
-name: 'Clarity&Contempt'
+name: 'Clarity & Contempt'
 favicon: null
 layout_spectrum: 0.8172824736684561
 typography_spectrum: 0.7507180934771895
@@ -21,7 +21,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.65529467118904
+  brandStrength: 0.5
   lightness: 0.06172217335551977
   saturation: 0.024376342073082924
   rhythmicContrast: 0.37719648610800505
